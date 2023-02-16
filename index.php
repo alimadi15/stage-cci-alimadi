@@ -1,7 +1,7 @@
 
-   <h3>
+   <h1>
     stage Ali Madi
-   </h3>
+   </h1>
    <?php
 
    ?>
